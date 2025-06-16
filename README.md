@@ -31,4 +31,4 @@ This tool is useful when working with low-level data representations where bit p
 
 1.  Ensure you have Python installed on your system.
 2.  Navigate to the project directory in your terminal.
-3.  Run the application using the command: `python main.py`
+3.  Run the application using the command: `python main.pyw`
